@@ -1,0 +1,6 @@
+framework module JHIMComponents {
+  umbrella header "JHIMComponents-umbrella.h"
+
+  export *
+  module * { export * }
+}

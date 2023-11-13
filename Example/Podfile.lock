@@ -1,0 +1,16 @@
+PODS:
+  - JHIMComponents (0.1.0)
+
+DEPENDENCIES:
+  - JHIMComponents (from `../`)
+
+EXTERNAL SOURCES:
+  JHIMComponents:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JHIMComponents: 8e5d416f87f97cb7b14baa8ea82d4085e3b64f75
+
+PODFILE CHECKSUM: 38c3891941b51a204913895a21dc62234c23649c
+
+COCOAPODS: 1.11.3
